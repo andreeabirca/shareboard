@@ -1,4 +1,4 @@
-# shareboard
+# shareboard/PHP
 
 A simple shareboard page created with PHP Vanilla, where you can register and log in and share some posts.
 You cand share posts only if you are logged in.
